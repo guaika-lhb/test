@@ -1,0 +1,26 @@
+{
+  "name": "nodecms",
+  "description": "node_cms",
+  "main": "index.js",
+  "authors": [
+    "LHB"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.7.8",
+    "jquery": "^3.4.1",
+    "bootstrap": "^4.3.1"
+  }
+}
